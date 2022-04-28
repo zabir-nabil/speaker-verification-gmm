@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/python-3.8-blue.svg" alt="License">
 </a>
 
-<a href="https://colab.research.google.com/github/zabir-nabil/speaker-verification-gmm/blob/main/speaker_veri_gmm_ubm.ipynb.ipynb" style="text-decoration: none;">
+<a href="https://colab.research.google.com/github/zabir-nabil/speaker-verification-gmm/blob/main/speaker_veri_gmm_ubm.ipynb" style="text-decoration: none;">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
